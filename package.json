@@ -1,5 +1,5 @@
 {
-  "name": "theme-gc-intranet",
+  "name": "theme-gc-intranet test for e-tool",
   "version": "4.0.24-development",
   "scripts": {
     "test": "grunt",
